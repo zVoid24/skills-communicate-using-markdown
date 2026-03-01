@@ -14,3 +14,6 @@ func main(){
   fmt.Println("Hello world")
 }
 ```
+
+<img alt = "Nothing" src = "https://octodex.github.com/images/original.png" width = "100" align= "right"> 
+
